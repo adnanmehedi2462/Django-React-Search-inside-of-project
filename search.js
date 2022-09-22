@@ -115,7 +115,7 @@ console.log(input,"iiiiiiiiiiiiiiiiiiiiiiiii")
 
 
 
-      
+       { output.length === 0 && input.length > 0 &&  (<h1 style={{'color':'red'}}>"Content Not Found. 😢 !!"</h1>)}
 <div className="blog-list-area-wrapper index-01">
             <div className="container custom-container-1515">
                 <div className="row">
